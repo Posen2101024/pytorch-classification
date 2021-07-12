@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+pytest-pylint
+pytest-repeat
+pytest-testdox
+pytest-mock
+tox
+pylint
+coverage
